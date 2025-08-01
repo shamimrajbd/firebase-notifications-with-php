@@ -1,7 +1,7 @@
 <p align="center">
 <p align="center">
   <a href="https://github.com/i-rin-eam">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/firebase-notification-image.png?raw=true"Logo" width="350" height="200">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/firebase.png?raw=true"Logo" width="350" height="200">
   </a> 
 <h2 align='center'>Send Firebase Push Notifications from Server using the new FCM HTTP v1 API</h12>
 </p>
@@ -137,43 +137,44 @@ function base64UrlEncode($data)
 ?>
 ```
 
+<br><br>
 ## Step 3: Here go to firebase project overview .
 
-
-<a href="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/project%20overview.png?raw=true" target="_blank">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/project%20overview.png?raw=true" alt="Logo" width="700" height="500">
+<br>
+<a align="center" href="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/project%20overview.png?raw=true" target="_blank">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/project%20overview.png?raw=true" alt="Logo" width="700" height="500">
   </a> 
 
-
+<br><br>
   ## Step 4: Here go Service account and generate new private key download .
+<br>
 
-
-<a href="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/generate%20private%20key.png?raw=true" target="_blank">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/generate%20private%20key.png?raw=true" alt="Logo" width="700" height="500">
+<a align="center" href="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/generate%20private%20key.png?raw=true" target="_blank">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/generate%20private%20key.png?raw=true" alt="Logo" width="700" height="500">
   </a> 
-
+<br><br>
 
    ## Step 5: Here go to PC File Manager Rename json file .
 
-
-<a href="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/rename.png?raw=true" target="_blank">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/rename.png?raw=true" alt="Logo" width="700" height="500">
+<br>
+<a align="center" href="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/rename.png?raw=true" target="_blank">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/rename.png?raw=true" alt="Logo" width="700" height="500">
   </a> 
-
+<br><br>
    ## Step 6: Here go to Cpanel and upload json file and other 'firebase.php' , 'get-access-token.php' file .
 
-
-<a href="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/service-account-file.png?raw=true" target="_blank">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/service-account-file.png?raw=true" alt="Logo" width="700" height="500">
+<br>
+<a align="center" href="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/service-account-file.png?raw=true" target="_blank">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/service-account-file.png?raw=true" alt="Logo" width="700" height="500">
   </a> 
-
+<br><br>
 
    ## Here Finall Step Notification Sent Successfully
-   
-<a href="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/Notificaiton%20sent.jpg?raw=true" target="_blank">
-    <img src="https://github.com/shamimrajbd/firebase-notifications/blob/main/images/Notificaiton%20sent.jpg?raw=true" alt="Logo" width="700" height="700">
+   <br>
+<a align="center" href="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/Notificaiton%20sent.jpg?raw=true" target="_blank">
+    <img src="https://github.com/shamimrajbd/firebase-notifications-with-php/blob/main/Images/Notificaiton%20sent.jpg?raw=true" alt="Logo" width="700" height="700">
   </a> 
-
+<br><br>
 
 <h1 align="center">Thank You ❤️</h1>
 <br><br>
